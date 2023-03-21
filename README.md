@@ -1,0 +1,1 @@
+It is developed using python and NumPy. It basically is a GUI-based app that accesses the company’s databases and provides each customer with detailed information about the product including price and quantity available. This enables each customer to shop effectively and prevents cumbersome product searches.
